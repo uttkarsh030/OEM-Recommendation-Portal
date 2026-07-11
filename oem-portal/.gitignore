@@ -1,0 +1,22 @@
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# React
+oem-portal-frontend/node_modules/
+oem-portal-frontend/dist/
+
+# Spring Boot
+oem-portal/target/
+
+# OS files
+.DS_Store
+Thumbs.db
