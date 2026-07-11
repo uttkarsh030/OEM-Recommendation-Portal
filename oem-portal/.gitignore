@@ -15,7 +15,7 @@ oem-portal-frontend/node_modules/
 oem-portal-frontend/dist/
 
 # Spring Boot
-oem-portal/target/
+target/
 
 # OS files
 .DS_Store
