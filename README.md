@@ -663,14 +663,6 @@ Please keep PRs focused and include a clear description of what changed and why.
 
 ---
 
-## 📄 License
-
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
-This project is licensed under the MIT License — see the `LICENSE` file for details.
-
----
-
 ## 👨‍💻 Author
 
 **Uttkarsh Kumar**
