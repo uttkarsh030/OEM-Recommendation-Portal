@@ -18,7 +18,7 @@
 
 OEM Portal is a centralized, role-based platform that helps banking institutions manage OEM recommendations, security patches, and system updates from submission through implementation and final verification — with a complete audit trail built for regulatory compliance.
 
-<img src="./docs/screenshots/login-page.png" alt="OEM Portal Login Screen" width="800"/>
+<img src="/oem-portal/assets/login-page.png" alt="OEM Portal Login Screen" width="800"/>
 <p><em>Secure, role-based login for Admins, Department Heads, Bankers, and Vendors</em></p>
 
 </div>
@@ -59,7 +59,7 @@ Banking institutions work with dozens of OEM (Original Equipment Manufacturer) v
 **OEM Portal** solves this by giving every stakeholder — vendors, department heads, bankers, and admins — a single source of truth. Every recommendation flows through a defined 8-stage lifecycle, every action is logged to an audit trail, and every role only sees what's relevant to them thanks to strict role-based access control.
 
 <div align="center">
-  <img src="./docs/screenshots/admin-dashboard.png" alt="Admin Dashboard" width="800"/>
+  <img src="/oem-portal/assets/admin-dashboard.png" alt="Admin Dashboard" width="800"/>
   <p><em>Admin dashboard — real-time visibility into departments, bankers, vendors, and the recommendation pipeline</em></p>
 </div>
 
@@ -245,7 +245,7 @@ Every recommendation moves through eight well-defined stages, giving full tracea
 ```
 
 <div align="center">
-  <img src="./docs/screenshots/recommendations-page.png" alt="Recommendations Management Page" width="800"/>
+  <img src="/oem-portal/assets/recommendations-page.png" alt="Recommendations Management Page" width="800"/>
   <p><em>Recommendations page — every submission's status is tracked and actionable at every stage</em></p>
 </div>
 
@@ -257,22 +257,22 @@ Every recommendation moves through eight well-defined stages, giving full tracea
 
 <div align="center">
 
-<img src="./docs/screenshots/login-page.png" alt="Login Page" width="800"/>
+<img src="/oem-portal/assets/login-page.png" alt="Login Page" width="800"/>
 <p><em>Login Page — role-aware sign-in with self-registration options for Bankers and Vendors</em></p>
 
 <br/>
 
-<img src="./docs/screenshots/admin-dashboard.png" alt="Admin Dashboard" width="800"/>
+<img src="/oem-portal/assets/admin-dashboard.png" alt="Admin Dashboard" width="800"/>
 <p><em>Admin Dashboard — pipeline overview, department stats, and quick summary widgets</em></p>
 
 <br/>
 
-<img src="./docs/screenshots/recommendations-page.png" alt="Recommendations Page" width="800"/>
+<img src="/oem-portal/assets/recommendations-page.png" alt="Recommendations Page" width="800"/>
 <p><em>Recommendations Page — role-specific views into recommendation status and next actions</em></p>
 
 <br/>
 
-<img src="./docs/screenshots/user-panel.png" alt="Vendor/Banker/Dept Head Panel" width="800"/>
+<img src="/oem-portal/assets/user-panel.png" alt="Vendor/Banker/Dept Head Panel" width="800"/>
 <p><em>Vendor Panel — vendors can track every submission and add new recommendations</em></p>
 
 </div>
@@ -404,7 +404,7 @@ Make sure you have the following installed before setting up the project:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/[username]/oem-portal.git
+git clone https://github.com/uttkarsh030/oem-portal.git
 cd oem-portal
 ```
 
